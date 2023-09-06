@@ -1,0 +1,5 @@
+﻿FirstDoHoaMayTinh.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function "void __cdecl abc(void)" (?abc@@YAXXZ)
+D:\learning\libOpenGL\GLU32.LIB : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\learning\libOpenGL\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\learning\libOpenGL\OPENGL32.LIB : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\learning\CodeDoHoaMayTinh\FirstDoHoaMayTinh\x64\Debug\FirstDoHoaMayTinh.exe : fatal error LNK1120: 1 unresolved externals
