@@ -1,5 +1,1 @@
-﻿FirstDoHoaMayTinh.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function "void __cdecl abc(void)" (?abc@@YAXXZ)
-D:\learning\libOpenGL\GLU32.LIB : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
-D:\learning\libOpenGL\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
-D:\learning\libOpenGL\OPENGL32.LIB : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
-D:\learning\CodeDoHoaMayTinh\FirstDoHoaMayTinh\x64\Debug\FirstDoHoaMayTinh.exe : fatal error LNK1120: 1 unresolved externals
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(439,5): error MSB8020: The build tools for v143 (Platform Toolset = 'v143') cannot be found. To build using the v143 build tools, please install v143 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution".
